@@ -1,0 +1,19 @@
+.nav-first {
+    background-color:teal; 
+}
+
+.nav-second .nav-link {
+    color: teal;
+}
+
+.footer {
+    background-color: teal;
+}
+
+.col-md-8 button {
+    margin-left: 30px;
+    border-radius: 17px;
+    margin-right: auto;
+    text-align: center;
+}
+
