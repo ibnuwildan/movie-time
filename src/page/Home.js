@@ -96,7 +96,7 @@ const HomePage = () => {
                       {/* <Card.Text> {movie.overview} </Card.Text> */}
                     <Card.Title className='text-center pt-2' style={{fontSize: "24px"}}>{movie.title}</Card.Title>
                     <CardText className='py-0'>
-                    <p><span className='fw-bold'>Date :</span> {formatDate(movie.release_date)}</p>
+                    {/* <p><span className='fw-bold'>Date :</span> {formatDate(movie.release_date)}</p> */}
                     </CardText>
                 </Card.Body>
               </Card>
